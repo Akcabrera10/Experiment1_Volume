@@ -16,7 +16,7 @@ int main()
 
     volume = mass / density;
 
-    cout << "Volume is " << volume <<endl;
+    cout << "Volume is (in cm^3): " << volume <<endl;
     getch ();
     return 0;
 }
